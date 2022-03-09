@@ -16,7 +16,8 @@ A collection of repos for layman's science and engineering projects.
 
 
 #### Misc
-* Rack cases, mounts 
+* Rack cases, mounts  
+[19 inch rack electronics enclosure](https://www.thingiverse.com/thing:5279156)
 
 * Prototype boards  
 [perma-proto-board](https://github.com/citizen-science-and-engineering/perma-proto-board)
